@@ -1,51 +1,42 @@
-# Nullbox
-
-This GitHub organization is the public support and discussion space for **Nullbox**.
-
-If you’re using Nullbox and need help, this is the right place.
-
----
-
 ## Getting support
 
-### 🐞 Support requests and issues
-For bugs, account issues, or anything that needs follow-up:
+### Support requests (bugs, account issues, anything that needs follow-up)
 
-- Go to the **Support** repository  
-- Open a new **Issue**
-- Include as much detail as you can (what you expected, what happened, and any relevant context)
+1. Open the **Support** repository.
+2. Click the **Issues** tab.
+3. Click **New issue**.
+4. Include:
+   - what you expected
+   - what happened
+   - steps to reproduce (if relevant)
+   - your mailbox domain or alias (if safe to share)
 
-This is the best option if something isn’t working as expected.
+Use an Issue when you want a trackable request with a clear resolution.
 
 ---
 
-### 💬 Questions and discussion
-For general questions, feedback, or informal discussion:
+### Questions and discussion (how it works, feedback, general chat)
 
-- Use **Organization Discussions**
+Use **Organization Discussions**.
 
 This is a good place for:
-- How things work
-- Feature questions
-- Product feedback
-- Architecture or privacy discussions
+- how things work
+- feature questions
+- product feedback
+- architecture or privacy discussion
 
 ---
 
-## What this is (and isn’t)
+## Open source
 
-- This is **not** a general-purpose open-source org
-- Most of Nullbox is not open source
-- This space exists to provide transparent support and communication
-
-We aim to respond, but response times may vary.
+We plan to open source parts of the system, but we’re not ready to do that yet.
 
 ---
 
 ## About Nullbox
 
-Nullbox provides email aliases and private mailboxes that forward to your existing inbox.  
+Nullbox provides email aliases and private mailboxes that forward to your existing inbox.
 The goal is to reduce exposure without changing how you use email.
 
-More information is available at:  
-https://nullbox.email
+More information:
+https://www.nullbox.email
